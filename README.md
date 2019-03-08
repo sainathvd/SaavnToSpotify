@@ -54,4 +54,4 @@ To know how to find your Spotify Username head - [Here](https://community.spotif
 
 **STEP 4**
 
-If you like this repository, give it a Star 🌟. New features, suggestions and contributions are always welcomed 😀.
+If you like this repository, give it a Star 🌟. New features, suggestions and contributions are always welcome 😀.
