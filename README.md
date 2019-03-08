@@ -33,12 +33,12 @@ JIO_SAAVN_PASSWORD = 'ENTER PASSWORD'
 ```
 **Note - Please don't use playlist name merely as 'Playlist'. Be unique and fancy with your playlists name 😎**
 
-**Use something unique like Playlist_1 or Playlist_Maroon5 etc. in JioSaavn for improved detection by Selenium Webdriver**
+**Use something unique like Playlist-1 or Playlist_Maroon5 etc. in JioSaavn for improved detection by Selenium Webdriver**
 
 Enter the Name of Playlists that you want to export, 
 
 ```
-all_playlist = ['Playlist-1', 'Playlist-2', 'Playlist-3', 'Enter Playlist Names like this'] 
+all_playlist = ['Playlist-1', 'Enter Playlist Names like this'] 
 # Playlist Names in the form of comma seperated list of strings
 ````
 
