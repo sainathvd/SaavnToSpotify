@@ -51,7 +51,13 @@ python3 main.py [YOUR SPOTIFY ACCOUNT USERNAME]
 ```
 To know how to find your Spotify Username head - [Here](https://community.spotify.com/t5/Accounts/how-do-i-find-my-spotify-user-id/td-p/665532)
 
-
 **STEP 4**
+
+After the script starts running, once the Selenium Driver window closes you will be asked to allow the application to give Rights to Use your Spotify Account, after you do this you will be redirected back to a page like **https://anudishjain.github.io/SaavnToSpotify/?code=[blablabla....]**
+
+**Copy the redirected URL and paste it back into the Terminal and hit Enter** and **VOILA 🥳, you have your exported playlists, verify [here](https://open.spotify.com/collection/playlists)**
+
+
+**STEP 5**
 
 If you like this repository, give it a Star 🌟. New features, suggestions and contributions are always welcome 😀.
