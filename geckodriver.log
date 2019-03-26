@@ -1,0 +1,702 @@
+1553261637900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9726OsN9tm18"
+1553261638424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553261638424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553261642396	Marionette	INFO	Listening on port 37771
+1553261642427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553261679971	Marionette	INFO	Stopped listening on port 37771
+1553262876110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zGf2M5oRQS4g"
+1553262876437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553262876438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553262879439	Marionette	INFO	Listening on port 33407
+1553262879572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553263003821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uICDrmAinMcJ"
+1553263004157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553263004157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553263007253	Marionette	INFO	Listening on port 43133
+1553263007379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+[Parent 10491, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 10491, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1553263039106	Marionette	INFO	Stopped listening on port 43133
+1553263175116	Marionette	INFO	Stopped listening on port 33407
+1553263367960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IZcbe1F2FFvn"
+1553263368292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553263368292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553263371935	Marionette	INFO	Listening on port 35795
+1553263372030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553264158331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qsRDgEiI59kh"
+1553264158676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553264158676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553264161780	Marionette	INFO	Listening on port 34197
+1553264161888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553264186719	Marionette	INFO	Stopped listening on port 34197
+1553264190129	Marionette	INFO	Stopped listening on port 35795
+1553264393162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KHAMey0a1wi0"
+1553264393500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553264393500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553264396331	Marionette	INFO	Listening on port 38431
+1553264396426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+[Parent 14172, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1553264462070	Marionette	INFO	Stopped listening on port 38431
+1553264468527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HcNbrI2Ukvur"
+1553264468850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553264468850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553264471714	Marionette	INFO	Listening on port 36249
+1553264471739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553264550687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.puKMfqISRiEN"
+1553264551010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553264551010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553264553902	Marionette	INFO	Listening on port 36041
+1553264554055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+[Parent 16160, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1553264580519	Marionette	INFO	Stopped listening on port 36041
+1553264582892	Marionette	INFO	Stopped listening on port 36249
+1553264642728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HXvhx4Xmey4J"
+1553264643049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553264643049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553264645897	Marionette	INFO	Listening on port 38937
+1553264645943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553265852765	Marionette	INFO	Stopped listening on port 38937
+1553272432542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4kUmF6NV20jc"
+1553272433227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553272433227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553272437082	Marionette	INFO	Listening on port 46127
+1553272437174	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553272651492	Marionette	INFO	Stopped listening on port 46127
+1553272656378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zK55AgiFmo1Y"
+1553272657059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553272657059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553272660824	Marionette	INFO	Listening on port 39451
+1553272660910	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553272812160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vpSkbEkoW8Qs"
+1553272812924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553272812925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553272816796	Marionette	INFO	Listening on port 46223
+1553272816886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553272818006	Marionette	INFO	Stopped listening on port 39451
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553272906499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K8tpSs84VSKi"
+1553272907422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553272907422	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553272911150	Marionette	INFO	Listening on port 39337
+1553272911222	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22612, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-DVGW0d/firefox-65.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1553272912767	Marionette	INFO	Stopped listening on port 46223
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553273535546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WX4zzaFgfsNY"
+1553273536324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553273536324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553273540120	Marionette	INFO	Listening on port 36601
+1553273540182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1553273545094	Marionette	INFO	Stopped listening on port 36601
+1553273562959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fsuvb1zVobhc"
+1553273563622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553273563623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553273567834	Marionette	INFO	Listening on port 46705
+1553273567885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553273601733	Marionette	INFO	Stopped listening on port 39337
+1553274394583	Marionette	INFO	Stopped listening on port 46705
+1553274599085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xokt06TpJPz3"
+1553274599805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553274599805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553274603705	Marionette	INFO	Listening on port 45791
+1553274603906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1553274608864	Marionette	INFO	Stopped listening on port 45791
+1553274615830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ptOFA9xbs0Jx"
+1553274616561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553274616562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553274620422	Marionette	INFO	Listening on port 32907
+1553274620482	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553274789896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2q6Gbt58ib2F"
+1553274790536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553274790537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553274794347	Marionette	INFO	Listening on port 37067
+1553274794531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553274796594	Marionette	INFO	Stopped listening on port 32907
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553274879431	Marionette	INFO	Stopped listening on port 37067
+1553275315082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3s1novMp4nJv"
+1553275315752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553275315752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553275320688	Marionette	INFO	Listening on port 39229
+1553275320743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+1553275324136	Marionette	INFO	Stopped listening on port 39229
+1553275330053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.td54lmkwG0oF"
+1553275330803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553275330803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553275334932	Marionette	INFO	Listening on port 42295
+1553275334976	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553275456461	Marionette	INFO	Stopped listening on port 42295
+1553350570132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5NAQzXWlOit9"
+1553350570682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1553350570682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1553350574931	Marionette	INFO	Listening on port 44773
+1553350574950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1553351087436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lUIPVjf3J8Tv"
+1553351087938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553351087939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553351087939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553351091737	Marionette	INFO	Listening on port 42169
+1553351091754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553351116579	Marionette	INFO	Stopped listening on port 44773
+[Parent 23465, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23465, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553351203149	Marionette	INFO	Stopped listening on port 42169
+1553351305603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AKXjgKk5d0Yw"
+1553351305925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553351305925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553351305925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553351309031	Marionette	INFO	Listening on port 40479
+1553351309130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553351567620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Yv78us60JhW2"
+1553351567946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553351567946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553351567946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553351571163	Marionette	INFO	Listening on port 37099
+1553351571265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 25144, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 25144, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553351618720	Marionette	INFO	Stopped listening on port 40479
+[Parent 26248, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 26248, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553351740119	Marionette	INFO	Stopped listening on port 37099
+1553353126016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8RxdB0RzCyln"
+1553353126680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553353126681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553353126681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553353130380	Marionette	INFO	Listening on port 42971
+1553353130445	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1087:3
+
+[Parent 27834, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 27834, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553353139813	Marionette	INFO	Stopped listening on port 42971
+1553358458961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rCH4VBpoZyNP"
+1553358459703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553358459703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553358459703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: chrome://browser/content/places/bookmarksSidebar.xul, line 1: ReferenceError: PlacesUIUtils is not defined
+1553358464212	Marionette	INFO	Listening on port 35619
+1553358464402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 103: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+observe@resource://gre/modules/AsyncShutdown.jsm:533:9
+
+1553358467814	Marionette	INFO	Stopped listening on port 35619
+1553358477132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gPL2mFgVmSoO"
+1553358477800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553358477800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553358477800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553358482131	Marionette	INFO	Listening on port 41867
+1553358482158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553358934793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LpGemzZksAYa"
+1553358935511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553358935511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553358935512	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553358940525	Marionette	INFO	Listening on port 35795
+1553358940749	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 453, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 453, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553358944523	Marionette	INFO	Stopped listening on port 35795
+1553358949598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v2qPl7YAyKIq"
+1553358950255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553358950256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553358950256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553358954570	Marionette	INFO	Listening on port 46063
+1553358954832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553358997721	Marionette	INFO	Stopped listening on port 41867
+[Parent 1479, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 1479, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553359035635	Marionette	INFO	Stopped listening on port 46063
+1553359078159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vQuBrqLyAW8t"
+1553359078848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553359078848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553359078848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553359082674	Marionette	INFO	Listening on port 36271
+1553359082699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 2712, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 2712, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553360335540	Marionette	INFO	Stopped listening on port 36271
+1553361549471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pqxlu4K2Audr"
+1553361550163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553361550164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553361550164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553361553976	Marionette	INFO	Listening on port 43793
+1553361553989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553361725671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dYAoN4QpNYYh"
+1553361726294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553361726295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553361726295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553361730062	Marionette	INFO	Listening on port 41143
+1553361730107	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5349, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5349, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553361732076	Marionette	INFO	Stopped listening on port 43793
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+[Parent 6414, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6414, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553362298009	Marionette	INFO	Stopped listening on port 41143
+1553362873157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8V225C2wbQWX"
+1553362873854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553362873855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553362873855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553362877992	Marionette	INFO	Listening on port 42075
+1553362878175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 8114, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8114, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553363205672	Marionette	INFO	Stopped listening on port 42075
+1553363301220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lJzhyj4zCjyK"
+1553363301816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553363301817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553363301817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553363305407	Marionette	INFO	Listening on port 34157
+1553363305466	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+1553364631990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qSpiJJUZhqVS"
+1553364632623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553364632623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553364632623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553364635864	Marionette	INFO	Listening on port 42449
+1553364635960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 9674, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9674, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553364690974	Marionette	INFO	Stopped listening on port 34157
+[Parent 11541, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11541, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553365040391	Marionette	INFO	Stopped listening on port 42449
+1553598824607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QIUmzeIiT9h1"
+1553598825444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553598825445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553598825445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553598830239	Marionette	INFO	Listening on port 39299
+1553598830284	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5410, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5410, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-daPcGs/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553598836276	Marionette	INFO	Stopped listening on port 39299
+1553598853818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h6OajKnLiYM4"
+1553598854414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553598854414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553598854415	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553598858959	Marionette	INFO	Listening on port 42983
+1553598859056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 20: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 9: unreachable code after return statement
+JavaScript warning: https://static.saavncdn.com/_s/search.min.js?t=1551959434, line 10: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
