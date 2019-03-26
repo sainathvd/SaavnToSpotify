@@ -1,11 +1,18 @@
 from selenium import webdriver
+from selenium.common.exceptions import WebDriverException
+from . import logger
 import os
 import sys
 import spotipy
 import spotipy.util as util
 import more_itertools
 
-driver = webdriver.Firefox()
+try:
+    driver = webdriver.Firefox()
+except WebDriverException:
+    logger.critical("WebDriver exception has been caught")
+else:
+    logger.info("WebDriver has been initiated")
 
 # Add the URL of a public playlist. This change has been done to avoid exposing credentials to the script.
 driver.get("https://www.jiosaavn.com/s/playlist/032b3a04e8d31d8fa5534b6ee2319775/Sainath/"
