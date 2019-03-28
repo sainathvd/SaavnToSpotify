@@ -53,7 +53,7 @@ except WebDriverException:
 else:
     logger.info("Webdriver instance closed successfully !")
 
-logger.info("Spotify code execution started")
+logger.info("Spotify code execution started.")
 # spotify secttion
 SPOTIFY_USERNAME = sys.argv[ 1 ]
 try:
