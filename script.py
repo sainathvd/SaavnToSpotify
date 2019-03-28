@@ -18,9 +18,9 @@ logger.addHandler(file_handler)
 try:
     driver = webdriver.Firefox()
 except WebDriverException:
-    logger.critical("WebDriver exception has been caught")
+    logger.critical("WebDriver exception has been caught.")
 else:
-    logger.info("WebDriver has been initiated")
+    logger.info("WebDriver has been initiated.")
 
     # Add the URL of a public playlist. This change has been done to avoid exposing credentials to the script.
 try:
@@ -29,22 +29,22 @@ try:
                'medium=com.whatsapp')
     driver.maximize_window()
 except TimeoutError:
-    logger.critical("Website Timeout ! Please check your internet connection.")
+    logger.critical("Website Timed out ! Please check your internet connection.")
 
-logger.info("Website opened")
+logger.info("Saavn.com opened in browser.")
 
 song_names_inside_playlist = list()
 try:
     playlist_name = driver.find_element_by_xpath("//*[@class = 'page-title ellip']").text
     song_name = driver.find_elements_by_xpath("//*[@class='main']/*[@class='title']/a")
 except NoSuchElementException:
-    logger.critical("Element not found exception")
+    logger.critical("Element not found exception.")
 
 # Addding Saavn songs to a list
 for name in song_name:
     song_names_inside_playlist.append(name.text)
 
-logger.info("Saavn song names collected")
+logger.info("Songs from Saavn playlist collected.")
 
 try:
     driver.close()
@@ -65,7 +65,7 @@ except Exception:
     os.remove(f".cache-{SPOTIFY_USERNAME}")
     token = util.prompt_for_user_token(SPOTIFY_USERNAME)
 else:
-    logger.info("Authenticated successfully with Spotify API")
+    logger.info("Authenticated successfully with Spotify API.")
 
 spotify = spotipy.Spotify(auth=token)
 song_id_according_to_spotify = list()
@@ -80,11 +80,11 @@ for song_name in song_names_inside_playlist:
 
 # Split the song id list into lists of 100 song ids per list
 song_id_according_to_spotify = more_itertools.chunked(song_id_according_to_spotify, 100)
-logger.info("Script started adding songs to spotify playlist")
+logger.info("Script started adding songs to Spotify playlist.")
 
 # code to add songs to spotify playlist
 current_playlist_id = spotify.user_playlist_create(str(SPOTIFY_USERNAME), playlist_name)
-logger.info(f"%s playlist created in spotify", playlist_name)
+logger.info(f"%s playlist created in Spotify.", playlist_name)
 current_playlist_id = str(current_playlist_id[ 'id' ])
 for song_id in song_id_according_to_spotify:
     spotify.user_playlist_add_tracks(str(SPOTIFY_USERNAME), current_playlist_id, song_id)
