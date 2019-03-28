@@ -10,7 +10,7 @@ from selenium.common.exceptions import WebDriverException, NoSuchElementExceptio
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter('%(asctime)s:%(name)s:%(message)s')
-file_handler = logging.FileHandler('debug.log')
+file_handler = logging.FileHandler('debug.log', mode='w')
 file_handler.setLevel(logging.DEBUG)
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
@@ -70,13 +70,16 @@ else:
 spotify = spotipy.Spotify(auth=token)
 song_id_according_to_spotify = list()
 
-for song_name in song_names_inside_playlist:
-    results = spotify.search(q=song_name, limit=1, offset=0, type='track', market=None)
-    try:
-        song_id = results[ 'tracks' ][ 'items' ][ 0 ][ 'id' ]
-        song_id_according_to_spotify.append(str(song_id))
-    except IndexError:
-        logger.warning(f"%s not found in Spotify", song_name)
+# Creating a file to add songs which are not available or not found in Spotify
+with open("SongsNotFoundInSpotify.txt", "w") as file:
+    for song_name in song_names_inside_playlist:
+        results = spotify.search(q=song_name, limit=1, offset=0, type='track', market=None)
+        try:
+            song_id = results[ 'tracks' ][ 'items' ][ 0 ][ 'id' ]
+            song_id_according_to_spotify.append(str(song_id))
+        except IndexError:
+            file.write(song_name + '\n')
+            logger.warning(f"%s not found in Spotify", song_name)
 
 # Split the song id list into lists of 100 song ids per list
 song_id_according_to_spotify = more_itertools.chunked(song_id_according_to_spotify, 100)
